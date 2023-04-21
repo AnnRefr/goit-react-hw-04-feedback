@@ -1,0 +1,15 @@
+.buttonOption {
+  display: inline-flex;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: grey;
+  color: white;
+}
+
+.buttonOption:hover,
+.buttonOption:focus {
+  background-color: blueviolet;
+}
